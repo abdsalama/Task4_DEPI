@@ -1,11 +1,11 @@
-# Repo Display UI Component
+# Issues Display UI Component
 
-This is a simple UI component built using Jetpack Compose for displaying repository-related information in a card-like view.
+This is a simple UI component built using Jetpack Compose for displaying issue-related information in a card-like view.
 
 ## Features
-- Displays repository title and status.
-- Shows the creation date and additional information in a structured layout.
-- Includes an icon for repository status.
+- Displays issue title and status.
+- Shows the creation date and other details in a structured layout.
+- Includes an icon for issue status.
 
 ## Preview
 A preview of how the component will look:

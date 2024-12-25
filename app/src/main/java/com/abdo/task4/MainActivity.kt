@@ -23,7 +23,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 
 @Composable
-fun Repo(modifier: Modifier=Modifier){
+fun Issues(modifier: Modifier=Modifier){
     Row (
         Modifier.fillMaxWidth()
             .background(Color.Gray)
@@ -74,5 +74,5 @@ fun Repo(modifier: Modifier=Modifier){
 @Preview(showBackground = true)
 @Composable
 private fun PrevieWitem(){
-    Repo()
+    Issues()
 }
